@@ -1,5 +1,7 @@
 # narrador MCP server
 
+[![smithery badge](https://smithery.ai/badge/nicolaseliasarias/narrador)](https://smithery.ai/servers/nicolaseliasarias/narrador)
+
 narrador turns documents and X (Twitter) posts into natural narrated audio with word-level timestamps. Upload PDFs, Word, EPUBs or text, pick from multilingual voices (English, Spanish, Portuguese and regional accents), start audio generation jobs, check their status and download the audio with synced timings. Also generates audio and videos for X posts. Secure OAuth sign-in with your narrador.io account, no API key needed.
 
 Remote [Model Context Protocol](https://modelcontextprotocol.io) server for **narrador**. It lets AI agents (Claude, Cursor, VS Code, Windsurf, ChatGPT and any MCP client) turn documents and X posts into natural-sounding audio.
