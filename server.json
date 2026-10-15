@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.narrador/narrador",
+  "title": "narrador",
+  "description": "Turn PDFs, Word, EPUB and X posts into natural audio: narrador files and narrador X for AI agents.",
+  "version": "1.0.0",
+  "websiteUrl": "https://narrador.io",
+  "repository": {
+    "url": "https://github.com/narrador-io/narrador-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.narrador.io/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Optional if your client supports OAuth. Otherwise: Bearer <API key> (nrd_files_... or nrd_x_...).",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}
