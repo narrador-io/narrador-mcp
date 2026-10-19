@@ -23,7 +23,7 @@ This repository only holds the public listing (`server.json`), registry metadata
 
 ## Credits
 
-Usage is metered in **narrador credits** (see `get_account`). Jobs and generations consume credits when they run. There are no subscriptions—buy or earn credits in the narrador web app and check balance before calling tools that spend credits.
+Usage is metered in **narrador credits** (see `get_account`). Jobs and generations consume credits when they run. There are no subscriptions—buy credits in the narrador web app and check balance before calling tools that spend credits.
 
 ## Tools (7)
 

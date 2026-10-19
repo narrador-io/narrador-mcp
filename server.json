@@ -3,7 +3,7 @@
   "name": "io.narrador/narrador",
   "title": "narrador",
   "description": "Turn PDFs, Word, EPUB and X posts into narrated audio with word-level timestamps. OAuth or API keys; narrador credits (no subscriptions). Seven tools: files jobs, X audio, voices, and account.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "websiteUrl": "https://narrador.io",
   "repository": {
     "url": "https://github.com/narrador-io/narrador-mcp",
